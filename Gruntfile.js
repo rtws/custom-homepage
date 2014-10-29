@@ -273,7 +273,7 @@ module.exports = function (grunt) {
                 options: {
                     archive: function() {
                         var manifest = grunt.file.readJSON("extension/manifest.json");
-                        return "package/update-notification-" + manifest.version + ".zip";
+                        return "package/custom-homepage-" + manifest.version + ".zip";
                     }
                 },
                 files: [{
