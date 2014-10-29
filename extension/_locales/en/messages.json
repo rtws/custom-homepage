@@ -1,0 +1,41 @@
+{
+  "extensionVersion": {
+    "message": "1.1.10",
+    "description": "Extension version"
+  },
+  "extensionName": {
+    "message": "Custom Home Page",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Replace Speed Dial with bookmarks or a home page",
+    "description": "Extension description"
+  },
+  "blankPage": {
+    "message": "Blank Page"
+  },
+  "optionsTabSettings": {
+    "message": "Settings"
+  },
+  "optionsTabSupport": {
+    "message": "Support"
+  },
+  "settingsAddress": {
+    "message": "Address"
+  },
+  "settingsAddressPlaceholder": {
+    "message": "Enter address or leave blank"
+  },
+  "settingsAddressUseBlank": {
+    "message": "Use blank"
+  },
+  "settingsAddressUseSpeedDial": {
+    "message": "Use Speed Dial"
+  },
+  "settingsAddressUseBookmarks": {
+    "message": "Use Bookmarks"
+  },
+  "settingsAddressUseCurrent": {
+    "message": "Use current pages"
+  }
+}

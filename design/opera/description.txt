@@ -1,0 +1,10 @@
+﻿- EN ----------------------------------------------------------------
+Opera invented Speed Dial in 2007 which is a great feature. A lot of people love it, but we are different: Alice likes bookmarks more than Speed Dial, Bob is a fan of minimalism and prefers blank start pages, and Eve uses her iGoogle page.
+
+Try this extension and replace Speed Dial with your favorite start page. 
+
+- HU ----------------------------------------------------------------
+2007-ben került bele az Operába a Gyorshívónak nevezett nagyszerű szolgáltatás. Sokan imádják, de az emberek különböznek: Alice jobban szereti a könyvjelzőket a Gyorshívónál, Bob a minimalizmus híve és az üres kezdőlapot kedveli, és Eve a saját iGoogle oldalát haszálja.
+
+Próbáld ki ezt a bővítményt, és cseréld le a Gyorshívót a kedvenc kezdőlapodra.
+

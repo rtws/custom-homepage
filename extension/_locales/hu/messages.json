@@ -1,0 +1,41 @@
+{
+  "extensionVersion": {
+    "message": "1.1.10",
+    "description": "Extension version"
+  },
+  "extensionName": {
+    "message": "Custom Home Page",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Cseréld le a Gyorshívót a könyvjelzőkre vagy más oldalra",
+    "description": "Extension description"
+  },
+  "blankPage": {
+    "message": "Üres lap"
+  },
+  "optionsTabSettings": {
+    "message": "Beállítások"
+  },
+  "optionsTabSupport": {
+    "message": "Támogatás"
+  },
+  "settingsAddress": {
+    "message": "Kezdőlap címe"
+  },
+  "settingsAddressPlaceholder": {
+    "message": "Írj be egy címet vagy hagyd üresen"
+  },
+  "settingsAddressUseBlank": {
+    "message": "Üres lap"
+  },
+  "settingsAddressUseSpeedDial": {
+    "message": "Gyorshívó"
+  },
+  "settingsAddressUseBookmarks": {
+    "message": "Könyvjelzők"
+  },
+  "settingsAddressUseCurrent": {
+    "message": "Megnyitott oldal"
+  }
+}

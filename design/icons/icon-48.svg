@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Your_Icon"
+   x="0px"
+   y="0px"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="icon-48.svg"
+   inkscape:export-filename="E:\projects\github\rtws\custom-homepage\design\icons\icon-48.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata3016"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3014" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview3012"
+   showgrid="false"
+   inkscape:zoom="17.291667"
+   inkscape:cx="24"
+   inkscape:cy="24"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Your_Icon" />
+	<polygon
+   points="57.503,61.411 57.503,81.745 77.087,81.745 77.087,51.078 49.92,31.411 22.753,51.078 22.753,81.745 42.337,81.745 42.337,61.411 "
+   id="polygon3008"
+   style="fill:#cc0f16"
+   transform="matrix(0.55486058,0,0,0.55486058,-3.5817562,-3.3570781)" />
+	<polygon
+   points="49.915,18.254 11.862,45.914 15.978,51.575 49.925,26.901 84.034,51.58 88.138,45.909 77.087,37.913 77.087,18.254 67.671,18.254 67.671,31.101 "
+   id="polygon3010"
+   style="fill:#cc0f16"
+   transform="matrix(0.55486058,0,0,0.55486058,-3.5817562,-3.3570781)" />
+</svg>
